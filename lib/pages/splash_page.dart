@@ -15,7 +15,7 @@ class SplashPage extends StatefulWidget {
 
 class _SplashPageState extends State<SplashPage> {
 
-  bool isLoggedIn = false;
+  bool isLoggedIn = true;
 
   @override
   void initState() {
